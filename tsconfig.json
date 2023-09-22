@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "public/GridExample.tsx", "src/Components/data.tsx"  ]
 }
