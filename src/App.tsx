@@ -1,8 +1,9 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import Routing from './Components/Routing';
+import Routing from './Routes/Routing';
 import GridExample from '../public/GridExample';
+
 
 function App() {
   return (

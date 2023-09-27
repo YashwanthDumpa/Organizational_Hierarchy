@@ -71,7 +71,7 @@ function getData() {
           'Francis Strickland',
           'Morris Hanson',
         ],
-        jobTitle: 'Sales Manager',
+        jobTitle: 'Sales JMAN',
         employmentType: 'Permanent',
       },
       {
@@ -90,6 +90,7 @@ function getData() {
           'Malcolm Barrett',
           'Francis Strickland',
           'Bennie Wise',
+          
         ],
         jobTitle: 'Sales Executive',
         employmentType: 'Contract',

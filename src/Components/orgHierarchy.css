@@ -1,0 +1,36 @@
+/* .App{
+    padding: 0;
+    margin: 0;
+}
+*{
+    padding: 0;
+    margin: 0;
+} */
+
+.heading {
+    font-family: "Arial" !important;
+    color: #19105B;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.hierarchy-container {
+    overflow: auto;
+    max-height:80vh;
+
+
+}
+
+
+.search-container {
+     position: sticky;     
+}
+
+.card-width{
+  width:40vh;
+  
+}
+
+.name,.position{
+    margin:0px;
+}
